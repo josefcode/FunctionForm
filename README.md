@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+
+
+<h1 align="center">
+    <img alt="Ecoleta" title="#Ecoleta" src="https://user-images.githubusercontent.com/81826528/159992093-5ebef001-6702-4a9b-bd69-471193c9dffc.png" />
+
+
+
+
+<h1 align="center">
+   🎊 <a href="https://zesty-druid-b394b5.netlify.app/"> live preview Form with react </a>
+</h1>
+<h4 align="center"> 
+	 Status: Finished
+</h4>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,11 +26,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+### Install `styled-components`
 
-### `npm test`
+Installing styled-components only takes a single command and you're ready to roll:
+#### `with npm`
+npm install --save styled-components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### `with yarn`
+yarn add styled-components
+
+### `Install material-ui`
+
+To install and save in your package.json dependencies, run:
+#### `with npm`
+npm install @mui/material @emotion/react @emotion/styled
+
+#### `with yarn`
+yarn add @mui/material @emotion/react @emotion/styled
 
 ### `npm run build`
 
@@ -29,37 +54,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
@@ -68,3 +62,61 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+  ---
+  ## Layout
+
+The application layout is available on Figma:
+
+<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+
+
+### Mobile
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81826528/162817658-399766b7-852f-44a8-8570-dd0e4639ef6c.jpg" width="200px">
+</p>
+  
+
+
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Ecoleta" title="#Ecoleta" src="https://user-images.githubusercontent.com/81826528/162818026-ff753f7e-b93b-4835-aabc-406171679845.jpg" width="400px">
+</p>
+
+
+---
+
+#### Tech Stack
+
+The following tools were used in the construction of the project:
+
+
+
+-   **[styled-components ](https://styled-components.com/)**
+-   **[React]**
+-   **[material-ui](https://mui.com/)**
+
+  
+  ## Author
+
+<a href="Https://www.linkedin.com/in/atef-chelaghma/">
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/81826528/160011378-01afd0d2-361d-4c14-bb6c-6bd5ccc077a9.png" width="100px;" alt="Thiago Marinho"/>
+ <br />
+ <sub><b>Atef Chelaghma</b></sub></a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Atef-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atef-chelaghma/)](https://www.linkedin.com/in/atef-chelaghma/) 
+
+  
+  
+## License
+
+Made with love by Atef Chelaghma 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/atef-chelaghma/)
+
+---
